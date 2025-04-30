@@ -1,0 +1,19 @@
+name: chart-challenge
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - geopandas
+  - scikit-learn
+  - ipywidgets
+  - openpyxl
+  - notebook
+  - pip
+  - pip:
+      - kaleido  
