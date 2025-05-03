@@ -45,17 +45,17 @@ conda activate chart-challenge
 | 08 | Income Inequality | ⏳ |
 | 09 | Climate & Environment | ⏳ |
 | 10 | Internet Censorship or Access | ⏳ |
-| 11 | Crime or Cybersecurity Trends | ⏳ |
+| 11 | Cybersecurity Trends | ⏳ |
 | 12 | Education Outcomes | ⏳ |
 | 13 | Healthcare Disparities | ⏳ |
-| 14 | Voter Turnout | ⏳ |
+| 14 | Canadian Voter Turnout | ⏳ |
 | 15 | Time Series Challenge | ⏳ |
 | 16 | Geospatial Analysis | ⏳ |
 | 17 | Network Analysis | ⏳ |
 | 18 | Multivariate Dashboard | ⏳ |
 | 19 | Text Data Analysis | ⏳ |
 | 20 | Data Cleaning Focus | ⏳ |
-| 21 | Simulation or Synthetic Data | ⏳ |
+| 21 | Synthetic Data | ⏳ |
 | 22 | Federated Data Visualization | ⏳ |
 | 23 | Anomaly Detection | ⏳ |
 | 24 | Security Logs or Attack Trends | ⏳ |
